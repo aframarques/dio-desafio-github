@@ -1,2 +1,3 @@
-# dio-desafio-github
-primeiro arquivo publicado.
+Desafio de Projeto  sobre Git/GitHub - DIO
+Primeiro diretório publicado.
+
